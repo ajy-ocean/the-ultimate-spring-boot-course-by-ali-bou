@@ -30,17 +30,6 @@ Embark on a journey to build robust, secure, and scalable applications with Spri
 | **Postman**           | API Testing               |
 | **IntelliJ IDEA**     | Recommended IDE           |
 
-## 📈 Progress Tracker
-
-| 📘 Module                     | ⏳ Status         |
-|-------------------------------|-------------------|
-| 1️⃣ Intro & Project Setup     | ✅ Completed      |
-| 2️⃣ Spring Boot Basics        | ✅ Completed      |
-| 3️⃣ JWT Authentication        | ✅ Completed      |
-| 4️⃣ Spring Security Deep Dive | 🔄 In Progress    |
-| 5️⃣ Database Integration      | ⏳ Up Next        |
-| 6️⃣ Clean Architecture        | ⏳ Coming Soon    |
-| 7️⃣ Advanced Topics           | ⏳ Coming Soon    |
 
 ## 🧠 Core Concepts
 
