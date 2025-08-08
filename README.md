@@ -66,6 +66,6 @@ A massive thank you to [Ali Bouali](https://www.youtube.com/@BoualiAli) for his 
 
 ## 📫 Connect With Me
 
-- 🌍 **GitHub**: [your-github](https://github.com/ajy-ocean)
-- 🐦 **Twitter**: [@yourhandle](https://x.com/ajy_ocean)
-- 💼 **LinkedIn**: [Your Name](https://www.linkedin.com/in/ajay-laxmi-virendra-rawat/)
+- 🌍 **GitHub**: [ajy-ocean](https://github.com/ajy-ocean)
+- 🐦 **Twitter**: [@ajy_ocean](https://x.com/ajy_ocean)
+- 💼 **LinkedIn**: [Rawat](https://www.linkedin.com/in/ajay-laxmi-virendra-rawat/)
