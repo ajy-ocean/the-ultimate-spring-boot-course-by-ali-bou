@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UltimateSpringbootCourseByAliBouApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UltimateSpringbootCourseByAliBouApplication.class, args);
+		var context = SpringApplication.run(UltimateSpringbootCourseByAliBouApplication.class, args);
+		MyFirstService myFirstService = context.getBean(MyFirstService.class);
+		System.out.println(myFirstService.tellAStory());
+		System.out.println(myFirstService.getCustomPropertyFromAnotherFile());
 	}
 
 }
