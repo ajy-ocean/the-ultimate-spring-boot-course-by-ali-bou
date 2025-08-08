@@ -60,34 +60,6 @@ Embark on a journey to build robust, secure, and scalable applications with Spri
 - **IntelliJ IDEA** or **VS Code**
 - **Postman** for API testing
 
-### ⚙️ Setup Instructions
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/spring-ultimate-course.git
-   ```
-2. **Navigate to the Project**:
-   ```bash
-   cd spring-ultimate-course
-   ```
-3. **Configure Database**:
-   Update `src/main/resources/application.properties` with your database credentials.
-
-4. **Run the Application**:
-   ```bash
-   ./mvnw spring-boot:run
-   ```
-
-### 💾 Sample `application.properties`
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/springdb
-spring.datasource.username=root
-spring.datasource.password=yourpassword
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
-server.port=8080
-```
-
 ## 🙌 Acknowledgments
 
 A massive thank you to [Ali Bouali](https://www.youtube.com/@BoualiAli) for his clear, practical, and inspiring teaching style. His Spring tutorials are a treasure for developers! 💎
