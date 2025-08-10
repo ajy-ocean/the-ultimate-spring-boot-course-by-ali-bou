@@ -17,7 +17,7 @@ public class MyFirstService {
 
     @Autowired
     public MyFirstService(
-            @Qualifier("myFirstBean") MyFirstClass myFirstClass) {
+            @Qualifier("mySecondBean") MyFirstClass myFirstClass) {
         this.myFirstClass = myFirstClass;
     }
 
