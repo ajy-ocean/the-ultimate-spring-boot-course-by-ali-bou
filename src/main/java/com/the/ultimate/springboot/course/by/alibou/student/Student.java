@@ -1,6 +1,8 @@
-package com.the.ultimate.springboot.course.by.alibou.entity;
+package com.the.ultimate.springboot.course.by.alibou.student;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
+import com.the.ultimate.springboot.course.by.alibou.school.School;
+import com.the.ultimate.springboot.course.by.alibou.studentprofile.StudentProfile;
 import jakarta.persistence.*;
 
 @Entity

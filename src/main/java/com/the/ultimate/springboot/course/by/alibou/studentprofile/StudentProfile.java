@@ -1,5 +1,6 @@
-package com.the.ultimate.springboot.course.by.alibou.entity;
+package com.the.ultimate.springboot.course.by.alibou.studentprofile;
 
+import com.the.ultimate.springboot.course.by.alibou.student.Student;
 import jakarta.persistence.*;
 
 @Entity

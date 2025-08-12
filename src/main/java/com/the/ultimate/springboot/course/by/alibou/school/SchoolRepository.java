@@ -1,6 +1,5 @@
-package com.the.ultimate.springboot.course.by.alibou.repository;
+package com.the.ultimate.springboot.course.by.alibou.school;
 
-import com.the.ultimate.springboot.course.by.alibou.entity.School;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface SchoolRepository extends JpaRepository<School, Integer> {

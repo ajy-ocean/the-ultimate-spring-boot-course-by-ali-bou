@@ -1,6 +1,5 @@
-package com.the.ultimate.springboot.course.by.alibou.repository;
+package com.the.ultimate.springboot.course.by.alibou.student;
 
-import com.the.ultimate.springboot.course.by.alibou.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
